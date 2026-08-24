@@ -20,59 +20,59 @@
 
 ---
 
-## 🧠 Comprehensive Engineering & Frontend Skills
+## 🧠 Complete Skills & Technologies Spectrum (From Scratch to High-End)
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                   COSMO LAGNA SKILLS & ARCHITECTURE                             │
-├──────────────────────────────┬──────────────────────────────┬───────────────────────────────────┤
-│    FRONTEND & GRAPHICS       │     BACKEND & EPHEMERIS      │      DEVOPS & MATHEMATICS         │
-│  • Next.js 15 (App Router)   │  • FastAPI & Python 3.10+    │  • Sidereal Ephemeris Calculations│
-│  • React 19 Concurrent Model │  • Pydantic v2 Type Schemas  │  • Lahiri Ayanamsa (Chitra Paksha)│
-│  • Three.js & WebGL 3D       │  • Skyfield & PyEphem        │  • 6-Fold Shadbala Radar Calculus │
-│  • TypeScript (Strict)       │  • Uvicorn ASGI Daemon       │  • 120-Year Dasha Algorithms      │
-│  • Tailwind Glassmorphism    │  • RESTful API Architecture  │  • Sarvashtakavarga Matrix Math   │
-│  • Vector SVG Raycasting     │  • CORS & Middleware Security│  • Vercel & Render CI/CD Cloud    │
-└──────────────────────────────┴──────────────────────────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                             COSMO LAGNA SKILLS MATRIX                                            │
+├───────────────────────────────┬───────────────────────────────┬──────────────────────────────────────────────────┤
+│     FOUNDATIONAL FRONTEND     │     HIGH-END CREATIVE & UI    │          BACKEND & CLOUD DEVOPS                  │
+│  • Semantic HTML5 & SVG Math  │  • Next.js 15 (App Router)    │  • Python 3.10+ & FastAPI Async Framework        │
+│  • Vanilla CSS3 & Keyframes   │  • React 19 Concurrent Engine │  • Pydantic v2 Schemas & Data Contracts          │
+│  • Modern JavaScript (ES6+)   │  • Three.js & WebGL 3D Scene  │  • Skyfield & PyEphem Ephemeris Libraries        │
+│  • Strict TypeScript 5+       │  • Tailwind CSS Glassmorphism │  • Vercel Edge Cloud & Render Web Service CI/CD  │
+│  • Web APIs (Speech/Clipboard)│  • Polar-to-Cartesian Vector  │  • Lahiri Precession & 6-Fold Shadbala Calculus  │
+└───────────────────────────────┴───────────────────────────────┴──────────────────────────────────────────────────┘
 ```
+
+### 🧱 1. Foundational Web Engineering (HTML5, CSS3, JavaScript ES6+)
+* **Semantic HTML5 Architecture**: Clean landmark structuring (`<header>`, `<main>`, `<section>`, `<article>`, `<canvas>`, `<svg>`) optimized for accessibility, screen readers, and SEO indexing.
+* **Modern Vanilla CSS3**:
+  - **CSS Custom Properties (`:root`)**: Comprehensive design token system managing color variables, translucency levels, and responsive spacing units.
+  - **Glassmorphism & Optical Blurs**: Multi-layered backdrop filtering (`backdrop-filter: blur(24px)`), frosted glass borders (`border: 1px solid rgba(255,255,255,0.08)`), and inner specular light insets.
+  - **Ambient Jewel-Tone Glows**: Custom box-shadow physics simulating glowing planetary halos (`.glow-cyan`, `.glow-gold`, `.glow-violet`, `.glow-emerald`).
+  - **Gradient Text Masks**: Background-clip gradient typography (`-webkit-background-clip: text`) creating starlight and gold metallic shimmering text.
+  - **Keyframe Animations**: Custom keyframes for smooth orbital float animations (`@keyframes float`), pulsing telemetry indicators, and slow rotational spinners.
+* **Modern JavaScript (ES2022+)**:
+  - Asynchronous promise chaining and `async/await` error-handled pipelines.
+  - Functional array transformations (`map`, `reduce`, `filter`, `sort`, `find`).
+  - 280ms debounced event listeners preventing excessive API calls during geocoding.
+  - Web Browser APIs: `window.speechSynthesis` (Text-to-Speech audio engine) and `navigator.clipboard` API.
 
 ---
 
-### 🎨 1. Full Frontend & UI/UX Engineering Stack
-
-#### A. Modern Frameworks & Architecture
-* **Next.js 15 (App Router)**: Implemented Next.js 15 architecture utilizing Server and Client Components, optimized bundle splitting, and dynamic page metadata generation.
-* **React 19 Concurrent Features**: Leveraged modern React 19 hooks (`useState`, `useEffect`, `useRef`, `useCallback`, `useMemo`) for smooth real-time state management across 11 complex data visualizers.
-* **Strict TypeScript Architecture**: 100% type-safe data pipeline with strict type definitions for planetary positions, dignities, harmonic Vargas, Dasha timelines, Shadbala vectors, and Chaldean profiles.
-
-#### B. Creative 3D WebGL Graphics (Three.js)
-* **Real-Time 3D Solar System Engine**: Built a canvas-based WebGL scene with realistic Keplerian orbital mechanics, semi-major axis scaling, planetary radii, and orbital inclination angles.
-* **Procedural Lighting & Shaders**: Implemented dynamic point-light radiation from the Sun, ambient space illumination, procedural atmospheric glowing halos, and orbital path trails.
-* **Cinematic 3D Camera Controls**: Integrated smooth camera interpolation (lerping), touch/mouse orbit controls, and raycasting click detection for interactive planetary inspection.
-
-#### C. Custom Mathematical SVG & Canvas Visualizers
-* **North Indian Diamond Chart Engine**: Custom coordinate geometry calculating diamond and triangular SVG polygons with dynamic house rotations based on rising Lagna sign.
-* **South Indian Fixed Box Chart Engine**: Clockwise fixed-sign rectangular matrix displaying multi-planet occupants and retrogrades.
-* **Parashari Drishti Raycaster**: Mathematical raycasting overlay rendering laser aspect sightlines with glowing directional arrowheads and interactive focus filtering.
-* **Shadbala Radar Polygon**: Polar-to-Cartesian trigonometric mapping visualizing 6-fold planetary strengths (*Sthanabala, Digbala, Kaalabala, Cheshtabala, Naisargikabala, Drikbala*).
-* **Choghadiya Muhurta Compass**: Real-time 24-hour diurnal and nocturnal circular compass displaying dynamic sunrise-to-sunset time divisions.
-
-#### D. Luxury Horological Design System & Styling
-* **Tailwind CSS & Custom Design Tokens**: Custom color spaces (`bg-obsidian-950`, jewel-tinted emerald, celestial cyan, amethyst purple, solar gold) and responsive typography.
-* **Glassmorphism & Optical Blurs**: Modern UI incorporating `backdrop-blur-2xl`, translucent multi-layer frosted glass panels, hairline white borders (`border-white/[0.08]`), and inner specular glow effects.
-* **Micro-Interactions & Fluid Animations**: Subtle CSS hover scales, pulsing status beacons, smooth accordion drawers, and custom spinner loading states.
-* **Responsive Multi-Device Layouts**: Symmetrical responsive grid spanning mobile smartphones, tablets, laptops, and ultra-wide desktop monitors (`max-w-[1440px]`).
-
-#### E. Client-Side Telemetry & Async Integration
-* **Global Internet Geocoding Engine**: 280ms debounced asynchronous queries to OpenStreetMap / Photon API with instant worldwide city autocomplete and automatic UTC timezone offset estimation.
-* **Web APIs Integration**: Integrated client-side `navigator.clipboard` API and `window.speechSynthesis` audio narration capabilities.
+### 🎨 2. Advanced Frontend & Creative WebGL Engineering
+* **Next.js 15 (App Router)**: Hybrid server/client component architecture, zero-waterfall data fetching, dynamic metadata generation, and bundle size minimization.
+* **React 19 Concurrent Features**: Advanced state orchestration utilizing hooks (`useState`, `useEffect`, `useRef`, `useCallback`, `useMemo`) powering 11 interactive visualizers without UI lag.
+* **Strict TypeScript**: 100% type-safe codebase with strict generic data models covering planetary coordinates, dignities, harmonic Vargas, Dasha timelines, Shadbala vectors, and Chaldean profiles.
+* **Three.js & WebGL 3D Planetary Graphics**:
+  - Realistic Keplerian orbital physics calculating semi-major axes, rotation speeds, and orbital inclinations.
+  - Dynamic procedural lighting: Sun point-light radiance, ambient space illumination, emissive atmospheric halos, and celestial orbital trails.
+  - Interactive planetary raycasting detection with smooth cinematic camera lerping.
+* **Custom Vector SVG & Canvas Geometry**:
+  - **North Indian Diamond Kundali**: Custom coordinate geometry calculating diamond and triangular SVG polygons with dynamic house rotations based on rising Lagna sign.
+  - **South Indian Fixed Box Chart**: Clockwise fixed-sign rectangular matrix displaying multi-planet occupants and retrogrades.
+  - **Parashari Drishti Aspect Raycaster**: Mathematical raycasting overlay rendering laser aspect sightlines with glowing directional arrowheads.
+  - **Shadbala 6-Fold Radar**: Polar-to-Cartesian trigonometric mapping visualizing multi-axis planetary strength polygons.
+  - **Choghadiya Muhurta Compass**: Real-time 24-hour diurnal and nocturnal circular compass displaying dynamic sunrise-to-sunset time divisions.
+* **Tailwind CSS Design System**: Custom design tokens, obsidian color palettes (`obsidian-950`), responsive layout grids, and seamless multi-device scaling (`max-w-[1440px]`).
 
 ---
 
-### 🪐 2. Astrophysics & Classical Jyotish Mathematics
-
-* **Lahiri Ayanamsa Precession Engine**: Mathematical calculation of axial precession shifting Tropical coordinates to true Sidereal Nirayana longitudes.
+### 🪐 3. Astrophysics & Classical Jyotish Mathematics
+* **Lahiri (Chitra Paksha) Ayanamsa Precession Engine**: Mathematical calculation of axial precession shifting Tropical coordinates to true Sidereal Nirayana longitudes.
 * **Harmonic Micro-Divisions (Vargas)**: Algorithms generating **D1 (Rashi)**, **D9 (Navamsha)**, and **D10 (Dashamsha)** charts.
+* **6-Fold Shadbala Vector Strength**: Multi-variable vector computation evaluating *Sthanabala, Digbala, Kaalabala, Cheshtabala, Naisargikabala,* and *Drikbala*.
 * **Jaimini Chara Karaka Sorter**: Rank-ordering algorithms determining 8 planetary significators (*Atmakaraka through Darakaraka*).
 * **120-Year Fractional Vimshottari Progression**: Chronological progression engine calculating **Mahadasha**, **Antardasha**, and **Pratyantardasha** periods from Moon Nakshatra balance.
 * **337-Bindu Sarvashtakavarga (SAV) Array Reductions**: Multi-dimensional matrix reductions calculating benefic points across all 12 houses and 7 Grahas.
@@ -82,8 +82,7 @@
 
 ---
 
-### ⚡ 3. Backend Engineering & Distributed Systems
-
+### ⚡ 4. Backend Engineering & Distributed Systems
 * **FastAPI & Python 3.10+**: Asynchronous, high-throughput REST API with automated OpenAPI / Swagger documentation.
 * **Pydantic v2 Schema Validation**: Strict type-safe request/response contracts ensuring mathematical reliability.
 * **Uvicorn ASGI Server**: Production-grade async server processing astronomical calculations in sub-50 milliseconds.
@@ -91,8 +90,7 @@
 
 ---
 
-### ☁️ 4. Cloud Infrastructure & DevOps
-
+### ☁️ 5. Cloud Infrastructure & DevOps
 * **CI/CD Automation**: Zero-downtime automated deployment pipelines triggering on GitHub `main` branch pushes.
 * **Vercel Edge Cloud**: Global CDN distribution for frontend delivery with optimized Core Web Vitals ([Live App](https://cosmo-lagna.vercel.app)).
 * **Render Cloud Web Service**: Containerized cloud hosting for the Python FastAPI computational backend ([Live API](https://cosmo-lagna-api.onrender.com)).
@@ -104,7 +102,7 @@
 ```
 Cosmo-Lagna/
 ├── frontend/             # Next.js 15 App Router, React 19, Tailwind CSS
-│   ├── app/              # Core layout, pages, and global styling
+│   ├── app/              # Core layout, pages, and global styling (globals.css)
 │   ├── components/       # 3D Solar System, Charts, Radar, Telemetry matrices
 │   ├── lib/              # API client, Geocoding, Constants
 │   └── types/            # TypeScript data contracts & Ephemeris schemas
