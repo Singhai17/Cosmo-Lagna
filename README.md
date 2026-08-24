@@ -20,6 +20,51 @@
 
 ---
 
+## 🧠 Technical Skills & Engineering Competencies
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                             COSMO LAGNA SKILL MATRIX                             │
+├──────────────────────────┬──────────────────────────┬────────────────────────────┤
+│   FRONTEND & GRAPHICS    │    BACKEND & EPHEMERIS   │    DEVOPS & MATHEMATICS    │
+│  • Next.js 15 & React 19 │  • FastAPI & Python 3.10 │  • Sidereal Ephemeris      │
+│  • Three.js & WebGL 3D   │  • Pydantic v2 Schemas   │  • Lahiri Ayanamsa (Chitra)│
+│  • TypeScript Architecture│  • Skyfield & PyEphem   │  • 6-Fold Shadbala Radar   │
+│  • Tailwind Glassmorphism│  • Uvicorn ASGI Daemon   │  • 120-Yr Dasha Algorithms │
+│  • Vector SVG Raycasting │  • RESTful API Design    │  • Vercel & Render CI/CD   │
+└──────────────────────────┴──────────────────────────┴────────────────────────────┘
+```
+
+### 1. 🪐 Astrophysics & Ephemeris Mathematics
+- **Lahiri (Chitra Paksha) Ayanamsa Engine**: Precision mathematical precession offset calculations shifting Tropical coordinates into Sidereal Nirayana zodiac longitudes.
+- **Harmonic Vargas (Divisional Charts)**: Algorithms computing **D1 (Rashi)**, **D9 (Navamsha)**, and **D10 (Dashamsha)** harmonic micro-divisions.
+- **6-Fold Shadbala Vector Strength**: Multi-variable vector computation evaluating *Sthanabala, Digbala, Kaalabala, Cheshtabala, Naisargikabala,* and *Drikbala*.
+- **Jaimini Chara Karaka Sorter**: Rank-ordering algorithms determining 8 planetary significators (*Atmakaraka, Amatyakaraka, Bhratrikaraka, Matrikaraka, Pitrikaraka, Putrakaraka, Gnatikaraka, Darakaraka*).
+- **Parashari Aspect Raycasting**: Mathematical raycaster evaluating 7th full aspects, special Mars (4th/8th), Jupiter (5th/9th), Saturn (3rd/10th), and nodal projections.
+- **120-Year Fractional Vimshottari Progression**: Fractional-year time-progression engine determining chronological sub-cycles (*Mahadasha, Antardasha, Pratyantardasha*).
+- **337-Bindu Sarvashtakavarga (SAV) Matrix**: Multi-dimensional matrix reductions calculating benefic points across all 12 houses and 7 Grahas.
+- **Chaldean Numerology & Sound Frequency Analysis**: Mathematical reduction engine computing Mulank (Driver), Bhagyank (Destiny), and Namank (Name Vibration) mapped to ancient compound archetypes (*The Star of the Magi, The Crown of the Magi*).
+
+### 2. 🎨 Frontend Engineering & Creative WebGL
+- **Next.js 15 App Router & React 19**: Modern concurrent React architecture with clean separation of client-side interactive telemetry and server performance.
+- **Three.js & WebGL 3D Planetary Graphics**: Interactive 3D Solar System featuring orbital inclinations, semi-major axes, rotation velocities, and smooth cinematic camera panning.
+- **Custom Vector SVG Charting**: Mathematical diamond (North Indian) and rectangular (South Indian) chart projections with interactive aspect laser overlays.
+- **Luxury Horological UI/UX**: Swiss watchmaker-inspired dark-mode aesthetic with CSS backdrop blur glassmorphism, glowing ambient aura gradients, and micro-interactions.
+- **Real-Time Global Geocoding**: Asynchronous debounced integration querying OpenStreetMap / Photon API for every worldwide city with automated UTC timezone calculation.
+
+### 3. ⚡ Backend Architecture & Distributed Systems
+- **FastAPI & Python 3.10+**: Asynchronous, high-throughput REST API with automated OpenAPI / Swagger documentation.
+- **Pydantic v2 Schema Validation**: Strict type-safe request/response contracts ensuring mathematical reliability.
+- **Uvicorn ASGI Server**: Production-grade async server processing astronomical calculations in sub-50 milliseconds.
+- **Global Error Handling & Middleware**: CORS security policies, structured logging, and health probe instrumentation.
+
+### 4. ☁️ Cloud Infrastructure & DevOps
+- **CI/CD Automation**: Zero-downtime automated deployment pipelines triggering on GitHub `main` branch pushes.
+- **Vercel Edge Cloud**: Global CDN distribution for frontend delivery with optimized Core Web Vitals.
+- **Render Cloud Web Service**: Containerized cloud hosting for the Python FastAPI computational backend.
+
+---
+
 ## 🪐 Core Features & Telemetry Modules
 
 ### 1. 🌌 Interactive 3D Solar System (Three.js & WebGL)
@@ -28,47 +73,45 @@
 
 ### 2. 💎 Precision Vedic Chart Renderers (D1, D9, D10 Vargas)
 - Dual-style vector chart engine supporting **North Indian (Diamond Kundali)** and **South Indian (Fixed Rashi Box)** charts.
-- **Dynamic Parashari Aspect Laser Rays (Drishti)**: Interactive visual raycaster depicting planetary sight lines (7th full aspect, Mars 4th/8th, Jupiter 5th/9th, Saturn 3rd/10th, Rahu/Ketu 5th/9th).
-- Divisional harmonics: **D1 (Lagna / Physical Manifestation)**, **D9 (Navamsha / Spiritual Dharma & Marriage)**, and **D10 (Dashamsha / Career & Public Authority)**.
+- **Dynamic Parashari Aspect Laser Rays (Drishti)**: Interactive visual raycaster depicting planetary sight lines.
+- Divisional harmonics: **D1 (Lagna)**, **D9 (Navamsha)**, and **D10 (Dashamsha)**.
 
 ### 3. 🎯 Shadbala 6-Fold Planetary Strength Radar
-- Hexagonal radar visualization calculating the 6 classical sources of planetary strength (*Bala*):
-  - **Sthanabala** (Positional), **Digbala** (Directional), **Kaalabala** (Temporal), **Cheshtabala** (Motional), **Naisargikabala** (Natural), and **Drikbala** (Aspectual).
+- Hexagonal radar visualization calculating the 6 classical sources of planetary strength.
 
 ### 4. 🏛️ 12 Bhavas (Houses) Matrix & Jaimini Karakas
-- Deep analysis of all 12 life domains (*Tanu, Dhana, Sahaja, Sukha, Putra, Ari, Kalatra, Randhra, Dharma, Karma, Labha, Vyaya*).
-- Calculates ruling lords, house placements, occupying planets, aspects, and natural significators (*Chara & Sthira Karakas*).
+- Deep analysis of all 12 life domains with ruling lords, house placements, occupying planets, aspects, and natural significators.
 
 ### 5. ⏱️ Real-Time Gochar (Transits) & Choghadiya Muhurta
 - Real-time celestial transit engine tracking planetary motion against the natal chart.
-- Diurnal & Nocturnal **Choghadiya Compass** calculating live auspicious timing (*Amrit, Shubh, Labh, Chal, Rog, Kaal, Udveg*).
+- Diurnal & Nocturnal **Choghadiya Compass** calculating live auspicious timing.
 
 ### 6. 👑 300+ Classical Raja Yogas & Royal Combinations
 - Mathematical detection of canonical combinations citing *Brihat Parashara Hora Shastra* and *Phaladeepika*.
-- Identifies **Gaja Kesari**, **Pancha Mahapurusha** (*Ruchaka, Bhadra, Hamsa, Malavya, Sasa*), **Dharma-Karmadhipati**, and **Dhana Yogas** with active status filtering.
+- Identifies **Gaja Kesari**, **Pancha Mahapurusha**, **Dharma-Karmadhipati**, and **Dhana Yogas**.
 
 ### 7. ⏳ 120-Year Vimshottari Dasha Hierarchy
-- Precision progression engine calculating chronological start and end dates down to **Mahadasha**, **Antardasha**, and **Pratyantardasha** cycles based on natal Moon Nakshatra degree balance.
+- Precision progression engine calculating chronological start and end dates down to **Mahadasha**, **Antardasha**, and **Pratyantardasha** cycles.
 
 ### 8. 📊 Sarvashtakavarga (SAV) Matrix
-- 337-bindu aggregate auspiciousness matrix across all 12 houses and 7 primary Grahas, identifying life domains of effortless manifestation versus resilience testing.
+- 337-bindu aggregate auspiciousness matrix across all 12 houses and 7 primary Grahas.
 
 ### 9. 🔢 Sankhya Shastra (Chaldean Numerology)
-- Calculates **Driver Number (Mulank)**, **Destiny Number (Bhagyank)**, and **Name Vibration (Namank)** with ancient Chaldean compound number archetype titles (e.g. *The Star of the Magi*, *The Crown of the Magi*).
+- Calculates **Driver Number (Mulank)**, **Destiny Number (Bhagyank)**, and **Name Vibration (Namank)** with ancient Chaldean compound number titles.
 
 ### 10. 🪐 Shani Sade Sati & Kaal Sarp Diagnostics
-- Real-time Saturn transit tracking across the 12th, 1st, and 2nd houses from the natal Moon (Rising, Peak, and Setting phases).
-- Nodal axis analysis identifying **12 Classical Kaal Sarp variations** (*Anant, Kulik, Vasuki, Shankhpal, Padma, Mahapadma, Takshak, Karkotak, Shankhachur, Ghatak, Vishdhar, Sheshnaag*) with scriptural Upayas and Bija Mantras.
+- Real-time Saturn transit tracking across the 12th, 1st, and 2nd houses from the natal Moon.
+- Nodal axis analysis identifying **12 Classical Kaal Sarp variations** with scriptural Upayas and Bija Mantras.
 
 ### 11. 📜 Canonical Scriptural Insights
 - Non-fatalistic, empowering spiritual and practical wisdom distilled from classical texts (*BPHS, Phaladeepika, Saravali*).
 
 ### 12. 🌍 Global Internet Geocoding Engine
-- Integrated OpenStreetMap / Photon geocoding with instant autocomplete covering every worldwide city, town, village, and locality with automated UTC timezone offset estimation.
+- Integrated OpenStreetMap / Photon geocoding with instant autocomplete covering every worldwide city and town with automated UTC timezone offset estimation.
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## 🛠️ Architecture & Directory Layout
 
 ```
 Cosmo-Lagna/
@@ -88,10 +131,6 @@ Cosmo-Lagna/
 │
 └── render.yaml           # 1-Click Cloud Infrastructure deployment descriptor
 ```
-
-- **Frontend**: Next.js 15, React 19, TypeScript, Tailwind CSS, Three.js, React Three Fiber, Lucide Icons.
-- **Backend**: FastAPI, Ephem, Skyfield, Pydantic v2, Uvicorn, Python 3.10+.
-- **Deployment**: Vercel (Frontend CI/CD) + Render (Backend Web Service).
 
 ---
 
