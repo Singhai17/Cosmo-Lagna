@@ -4,22 +4,21 @@
 [![Live Demo](https://img.shields.io/badge/Live_App-cosmo--lagna.vercel.app-38bdf8?style=for-the-badge&logo=vercel)](https://cosmo-lagna.vercel.app)
 [![API Status](https://img.shields.io/badge/Live_API-Render_Cloud-10b981?style=for-the-badge&logo=fastapi)](https://cosmo-lagna-api.onrender.com/health)
 [![License: MIT](https://img.shields.io/badge/License-MIT-amber.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Next.js](https://img.shields.io/badge/Frontend-Next.js_15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI_Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js_WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Pydantic v2](https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![Vercel](https://img.shields.io/badge/Vercel_Edge-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render_Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
 
 **COSMO LAGNA** is a production-grade celestial intelligence platform bridging authentic **Classical Parashari Vedic Astrology (Jyotish)** and **Chaldean Numerology (Sankhya Shastra)** with modern astrophysics, real-time **Three.js 3D planetary orbital mechanics**, and luxury horological telemetry design.
-
----
-
-## 🌟 Live Demo, API Status, License & Stack Overview
-
-| Indicator | Platform / Framework | Status & Details |
-| :--- | :--- | :--- |
-| **🚀 Live Demo** | **Vercel Edge Cloud** | [https://cosmo-lagna.vercel.app](https://cosmo-lagna.vercel.app) — *Live production web application with interactive 3D Solar System and 11 telemetry modules.* |
-| **⚡ API Status** | **Render Cloud Web Service** | [https://cosmo-lagna-api.onrender.com/health](https://cosmo-lagna-api.onrender.com/health) — *High-throughput async Python engine delivering sub-50ms planetary calculations.* |
-| **📜 License** | **Open Source** | [MIT License](https://opensource.org/licenses/MIT) — *Permissive open-source license allowing free personal, research, and commercial usage.* |
-| **⚛️ Next.js** | **Next.js 15 & React 19** | *Modern App Router architecture, concurrent React hooks, TypeScript 5+, Tailwind CSS glassmorphism, and Three.js WebGL graphics.* |
-| **🐍 FastAPI** | **Python 3.10+ & Uvicorn** | *High-precision astronomical ephemeris computing Lahiri Ayanamsa, D1/D9/D10 Vargas, 120-Year Vimshottari Dasha, and 6-Fold Shadbala.* |
 
 ---
 
