@@ -11,6 +11,18 @@
 
 ---
 
+## 🌟 Live Demo, API Status, License & Stack Overview
+
+| Indicator | Platform / Framework | Status & Details |
+| :--- | :--- | :--- |
+| **🚀 Live Demo** | **Vercel Edge Cloud** | [https://cosmo-lagna.vercel.app](https://cosmo-lagna.vercel.app) — *Live production web application with interactive 3D Solar System and 11 telemetry modules.* |
+| **⚡ API Status** | **Render Cloud Web Service** | [https://cosmo-lagna-api.onrender.com/health](https://cosmo-lagna-api.onrender.com/health) — *High-throughput async Python engine delivering sub-50ms planetary calculations.* |
+| **📜 License** | **Open Source** | [MIT License](https://opensource.org/licenses/MIT) — *Permissive open-source license allowing free personal, research, and commercial usage.* |
+| **⚛️ Next.js** | **Next.js 15 & React 19** | *Modern App Router architecture, concurrent React hooks, TypeScript 5+, Tailwind CSS glassmorphism, and Three.js WebGL graphics.* |
+| **🐍 FastAPI** | **Python 3.10+ & Uvicorn** | *High-precision astronomical ephemeris computing Lahiri Ayanamsa, D1/D9/D10 Vargas, 120-Year Vimshottari Dasha, and 6-Fold Shadbala.* |
+
+---
+
 ## 🌐 Live Production Links
 
 - **🪐 Web Application**: [https://cosmo-lagna.vercel.app](https://cosmo-lagna.vercel.app)
